@@ -1,0 +1,39 @@
+.land_headerbar{
+	position: absolute;
+	display: inline-block;
+	right: 240px; top:40px;
+	width:240px;
+}
+
+.btnlogin{
+	display: inline-block;
+	padding: 10px 20px;
+	cursor: pointer;
+	background-color: #999;
+	border:3px solid #fff;
+	border-radius: 10px;
+	color:#fff;
+	background-color:#426ebd;
+     border-radius:5px; font-size:11pt; padding:7px 25px;
+     -moz-box-shadow: 2px 2px 3px 3px #2f508a inset,-2px -2px 3px 3px #2f508a inset;
+	-webkit-box-shadow: 2px 2px 3px 3px #2f508a inset,-2px -2px 3px 3px #2f508a inset;
+	box-shadow: 2px 2px 3px 3px #2f508a inset,-2px -2px 3px 3px #2f508a inset;	
+
+}
+a.btnlogin:hover{text-decoration: none; color:#000;}
+.btnlogin:active{
+           -moz-box-shadow:
+		 3px 3px 3px 3px #2f508a inset,-1px -1px 3px 3px #2f508a inset;
+	-webkit-box-shadow:
+		 3px 3px 3px 3px #2f508a inset,-1px -1px 3px 3px #2f508a inset;
+	box-shadow: 3px 3px 3px 3px #2f508a inset,-1px -1px 3px 3px #2f508a inset;
+    padding:8px 24px 6px 26px;
+}
+
+.textnotselect{
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	 user-select:none;
+	-o-user-select:none;
+}
