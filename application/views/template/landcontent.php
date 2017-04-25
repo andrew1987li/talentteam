@@ -156,7 +156,7 @@
 		<b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
     	<div class="row">
         	<div class="col-lg-12">
-            	<p class="client-part-haead wow fadeInDown delay-05">It was a pleasure to work with the guys at Knight Studio. They made sure 
+            	<p class="client-part-haead wow fadeInDown delay-05">It was a pleasure to work with the guys at Talent Team. They made sure 
 we were well fed and drunk all the time!</p>
             </div>
         </div>
