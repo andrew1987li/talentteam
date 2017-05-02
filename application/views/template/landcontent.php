@@ -212,7 +212,7 @@ we were well fed and drunk all the time!</p>
                 </div>
                 <h3 class="wow fadeInDown delay-06s">David Hagan</h3>
                 <span class="wow fadeInDown delay-06s">Talented Developer</span>
-                <p class="wow fadeInDown delay-06s">Expert in Swift/Objective-C, Java, back-end skill and php. Good sense to design for mobile, Excellent skills in iOS/Android developement</p>
+                <p class="wow fadeInDown delay-06s">Expert in Swift/Objective-C, Java, back-end skill with node.js and PHP. Good sense to design for mobile, Excellent skills in iOS/Android development</p>
             </div>            
             <div class="team-leader-box">
                 <div class="team-leader  wow fadeInDown delay-06s"> 
