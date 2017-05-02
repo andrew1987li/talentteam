@@ -48,8 +48,7 @@
                 </div>                
             </div>
             <figure class="col-lg-8 col-sm-6  text-right wow fadeInUp delay-02s">
-            	<img src="/assets/img/macbook-pro.png" alt="">
-            </figure>
+            	<img src="/assets/img/macbook-pro.png" alt="">            </figure>
         
         </div>
 	</div>
@@ -200,6 +199,21 @@ we were well fed and drunk all the time!</p>
                 <span class="wow fadeInDown delay-03s">Chief Executive Officer</span>
                 <p class="wow fadeInDown delay-03s">I've experienced for web &amp; mobile development fully. And rest api such as Twilio(Phone servcies)</p>
             </div>
+           <div class="team-leader-box">
+                <div class="team-leader  wow fadeInDown delay-06s"> 
+                    <div class="team-leader-shadow"><a href="#"></a></div>
+                    <img src="/assets/img/team-leader-pic4.jpg" alt="">
+                    <ul>
+                        <li><a href="#" class="fa-twitter"></a></li>
+                        <li><a href="#" class="fa-facebook"></a></li>
+                        <li><a href="#" class="fa-pinterest"></a></li>
+                        <li><a href="#" class="fa-google-plus"></a></li>
+                    </ul>
+                </div>
+                <h3 class="wow fadeInDown delay-06s">David Hagan</h3>
+                <span class="wow fadeInDown delay-06s">Talented Developer</span>
+                <p class="wow fadeInDown delay-06s">I'm expert in objective_c / swift and java. And I've good sense to design for mobile, I've excellent skills in Android/Ios developement</p>
+            </div>            
             <div class="team-leader-box">
                 <div class="team-leader  wow fadeInDown delay-06s"> 
                     <div class="team-leader-shadow"><a href="#"></a></div>
