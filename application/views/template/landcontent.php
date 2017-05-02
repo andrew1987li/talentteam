@@ -197,7 +197,7 @@ we were well fed and drunk all the time!</p>
                 </div>
                 <h3 class="wow fadeInDown delay-03s">Andrew Li</h3>
                 <span class="wow fadeInDown delay-03s">Chief Executive Officer</span>
-                <p class="wow fadeInDown delay-03s">I've experienced for web &amp; mobile development fully. And rest api such as Twilio(Phone servcies)</p>
+                <p class="wow fadeInDown delay-03s">I've experienced for web &amp; mobile development fully. And rest api such as Twilio(Phone services)</p>
             </div>
            <div class="team-leader-box">
                 <div class="team-leader  wow fadeInDown delay-06s"> 
