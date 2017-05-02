@@ -197,7 +197,7 @@ we were well fed and drunk all the time!</p>
                 </div>
                 <h3 class="wow fadeInDown delay-03s">Andrew Li</h3>
                 <span class="wow fadeInDown delay-03s">Chief Executive Officer</span>
-                <p class="wow fadeInDown delay-03s">I've experienced for web &amp; mobile development fully. And rest api such as Twilio(Phone services)</p>
+                <p class="wow fadeInDown delay-03s">Experienced senior developer for web &amp; mobile development. And integration rest api such as Twilio(Phone services)</p>
             </div>
            <div class="team-leader-box">
                 <div class="team-leader  wow fadeInDown delay-06s"> 
@@ -212,7 +212,7 @@ we were well fed and drunk all the time!</p>
                 </div>
                 <h3 class="wow fadeInDown delay-06s">David Hagan</h3>
                 <span class="wow fadeInDown delay-06s">Talented Developer</span>
-                <p class="wow fadeInDown delay-06s">I'm expert in objective_c / swift and java. And I've good sense to design for mobile, I've excellent skills in Android/Ios developement</p>
+                <p class="wow fadeInDown delay-06s">Expert in Swift/Objective-C, Java, back-end skill and php. Good sense to design for mobile, Excellent skills in iOS/Android developement</p>
             </div>            
             <div class="team-leader-box">
                 <div class="team-leader  wow fadeInDown delay-06s"> 
