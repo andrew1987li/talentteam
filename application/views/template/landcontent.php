@@ -210,8 +210,8 @@ we were well fed and drunk all the time!</p>
                         <li><a href="#" class="fa-google-plus"></a></li>
                     </ul>
                 </div>
-                <h3 class="wow fadeInDown delay-06s">David Hagan</h3>
-                <span class="wow fadeInDown delay-06s">Talented Developer</span>
+                <h3 class="wow fadeInDown delay-06s">Ruven Habegger</h3>
+                <span class="wow fadeInDown delay-06s">IOT World</span>
                 <p class="wow fadeInDown delay-06s">Expert in Swift/Objective-C, Java, back-end skill with node.js and PHP. Good sense to design for mobile, Excellent skills in iOS/Android development</p>
             </div>            
             <div class="team-leader-box">
